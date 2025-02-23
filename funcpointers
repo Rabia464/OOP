@@ -1,0 +1,18 @@
+// #include<iostream>
+// using namespace std;
+// int add(int a, int b){
+// return a+b;
+// }
+// int main(){
+//     int (*funcpoint)(int,int)=&add;
+//     int result = funcpoint(3,4);
+//     cout<<"Result: "<<result;
+//     return 0;
+// }
+#include<iostream>
+using namespace std;
+
+int main(){
+    cout<<"Hello";
+    return 0;
+}
